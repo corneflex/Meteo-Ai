@@ -1,0 +1,6 @@
+{
+  "name": "Météo",
+  "description": "Une application météo par temps réel élégante utilisant l'API OpenWeatherMap, avec prévisions heure par heure, favoris et cache hors-ligne.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
